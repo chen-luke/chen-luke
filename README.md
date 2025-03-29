@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello, my name is Luke Chen. I am a web developer with a strong eye for art and design. I am currently working as a full time web developer. Please take a moment to explore my Github and have a wonderful day!
+
 <!--
 **chen-luke/chen-luke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
